@@ -1,0 +1,6 @@
+# Step 1: Connect to the remote system (replace 'username' and 'remote_host')
+ssh username@remote_host
+
+# Step 2: From your local machine, use scp to copy the file to the remote home directory
+scp ~/LinuxHistory.txt username@remote_host:~
+

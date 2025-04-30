@@ -1,0 +1,10 @@
+Linux, an open-source operating system, was originally developed by Linus Torvalds in 1991. Torvalds, then a student at the University of
+Helsinki, aimed to create a free and open alternative to proprietary Unix systems for personal computers. He began by writing the Linux
+The early Linux kernel was designed to work alongside software from the **GNU Project**, founded by Richard Stallman in 1983. GNU’s goal was
+When Torvalds released the Linux kernel, it was combined with the existing GNU tools to form what’s now commonly referred to as **GNU
+/Linux**.
+The Linux system grew in popularity due to its open-source nature, meaning that anyone could view, modify, and redistribute the code. Over
+time, this collaboration between developers across the globe transformed Linux into one of the most widely used operating systems,
+The GNU/Linux philosophy is based on the ideals of **free software** as articulated by Richard Stallman. At the heart of this philosophy are
+This focus on user autonomy, openness, and community-driven development sets GNU/Linux apart from proprietary operating systems, promoting
+an ecosystem where software is transparent, customizable, and open to improvement by anyone. The combination of the Linux kernel and the GNU

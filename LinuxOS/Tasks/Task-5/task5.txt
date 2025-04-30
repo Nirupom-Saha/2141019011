@@ -1,0 +1,7 @@
+$ mkdir task5
+$ cd task5
+$ touch sample.txt
+$ ls -l sample.txt
+$ chmod 400 sample.txt
+$ ls -l sample.txt
+$ sudo chown nirupom2:newgroup LinuxHistory.txt

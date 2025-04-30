@@ -1,0 +1,89 @@
+Apr 27 12:58:55 - User: 'vboxadd', - Message: Apr 27 12:58:55 Nirupom useradd[1496]: failed adding user 'vboxadd', data deleted
+Apr 27 12:58:55 - User: 'vboxadd', - Message: Apr 27 12:58:55 Nirupom useradd[1497]: failed adding user 'vboxadd', data deleted
+Apr 27 12:59:48 - User: UNKNOWN - Message: Apr 27 12:59:48 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 27 13:06:12 - User: 'vboxadd', - Message: Apr 27 13:06:12 Nirupom useradd[1008]: failed adding user 'vboxadd', data deleted
+Apr 27 13:06:12 - User: 'vboxadd', - Message: Apr 27 13:06:12 Nirupom useradd[1009]: failed adding user 'vboxadd', data deleted
+Apr 27 13:07:00 - User: UNKNOWN - Message: Apr 27 13:07:00 Nirupom dbus-daemon[600]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 27 13:07:37 - User: UNKNOWN - Message: Apr 27 13:07:37 Nirupom dbus-daemon[600]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 27 23:19:56 - User: UNKNOWN - Message: Apr 27 23:19:56 Nirupom dbus-daemon[600]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 28 18:20:15 - User: 'vboxadd', - Message: Apr 28 18:20:15 Nirupom useradd[1017]: failed adding user 'vboxadd', data deleted
+Apr 28 18:20:15 - User: 'vboxadd', - Message: Apr 28 18:20:15 Nirupom useradd[1018]: failed adding user 'vboxadd', data deleted
+Apr 28 18:21:06 - User: UNKNOWN - Message: Apr 28 18:21:06 Nirupom dbus-daemon[605]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 28 18:21:37 - User: UNKNOWN - Message: Apr 28 18:21:37 Nirupom dbus-daemon[605]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 28 18:52:22 - User: UNKNOWN - Message: Apr 28 18:52:22 Nirupom dbus-daemon[605]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 28 19:38:04 - User: UNKNOWN - Message: Apr 28 19:38:04 Nirupom dbus-daemon[605]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 28 19:50:27 - User: UNKNOWN - Message: Apr 28 19:50:27 Nirupom dbus-daemon[605]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 28 22:19:55 - User: 'vboxadd', - Message: Apr 28 22:19:55 Nirupom useradd[1013]: failed adding user 'vboxadd', data deleted
+Apr 28 22:19:56 - User: 'vboxadd', - Message: Apr 28 22:19:56 Nirupom useradd[1014]: failed adding user 'vboxadd', data deleted
+Apr 28 22:20:47 - User: UNKNOWN - Message: Apr 28 22:20:47 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 28 22:21:21 - User: UNKNOWN - Message: Apr 28 22:21:21 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 29 00:26:51 - User: UNKNOWN - Message: Apr 29 00:26:51 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 30 08:35:51 - User: 'vboxadd', - Message: Apr 30 08:35:51 Nirupom useradd[1386]: failed adding user 'vboxadd', data deleted
+Apr 30 08:35:51 - User: 'vboxadd', - Message: Apr 30 08:35:51 Nirupom useradd[1387]: failed adding user 'vboxadd', data deleted
+Apr 30 08:36:50 - User: UNKNOWN - Message: Apr 30 08:36:50 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 30 08:37:49 - User: UNKNOWN - Message: Apr 30 08:37:49 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 30 08:40:40 - User: UNKNOWN - Message: Apr 30 08:40:40 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 20 20:47:06 - User: 'vboxadd', - Message: Apr 20 20:47:06 Nirupom useradd[1570]: failed adding user 'vboxadd', data deleted
+Apr 20 20:47:06 - User: 'vboxadd', - Message: Apr 20 20:47:06 Nirupom useradd[1571]: failed adding user 'vboxadd', data deleted
+Apr 20 20:47:57 - User: UNKNOWN - Message: Apr 20 20:47:57 Nirupom dbus-daemon[620]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 20 20:48:33 - User: UNKNOWN - Message: Apr 20 20:48:33 Nirupom dbus-daemon[620]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 20 20:50:09 - User: UNKNOWN - Message: Apr 20 20:50:09 Nirupom dbus-daemon[620]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 20 20:50:53 - User: UNKNOWN - Message: Apr 20 20:50:53 Nirupom dbus-daemon[620]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 00:11:56 - User: 'vboxadd', - Message: Apr 21 00:11:56 Nirupom useradd[1031]: failed adding user 'vboxadd', data deleted
+Apr 21 00:11:56 - User: 'vboxadd', - Message: Apr 21 00:11:56 Nirupom useradd[1032]: failed adding user 'vboxadd', data deleted
+Apr 21 00:12:47 - User: UNKNOWN - Message: Apr 21 00:12:47 Nirupom dbus-daemon[618]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 00:14:07 - User: UNKNOWN - Message: Apr 21 00:14:07 Nirupom dbus-daemon[618]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 00:49:09 - User: 'vboxadd', - Message: Apr 21 00:49:09 Nirupom useradd[1032]: failed adding user 'vboxadd', data deleted
+Apr 21 00:49:09 - User: 'vboxadd', - Message: Apr 21 00:49:09 Nirupom useradd[1033]: failed adding user 'vboxadd', data deleted
+Apr 21 00:50:03 - User: UNKNOWN - Message: Apr 21 00:50:03 Nirupom dbus-daemon[615]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 00:50:30 - User: UNKNOWN - Message: Apr 21 00:50:30 Nirupom dbus-daemon[615]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 01:16:30 - User: 'vboxadd', - Message: Apr 21 01:16:30 Nirupom useradd[1032]: failed adding user 'vboxadd', data deleted
+Apr 21 01:16:30 - User: 'vboxadd', - Message: Apr 21 01:16:30 Nirupom useradd[1033]: failed adding user 'vboxadd', data deleted
+Apr 21 01:17:19 - User: UNKNOWN - Message: Apr 21 01:17:19 Nirupom dbus-daemon[616]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 01:20:33 - User: UNKNOWN - Message: Apr 21 01:20:33 Nirupom dbus-daemon[616]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 03:28:45 - User: 'vboxadd', - Message: Apr 21 03:28:45 Nirupom useradd[1040]: failed adding user 'vboxadd', data deleted
+Apr 21 03:28:45 - User: 'vboxadd', - Message: Apr 21 03:28:45 Nirupom useradd[1041]: failed adding user 'vboxadd', data deleted
+Apr 21 03:29:34 - User: UNKNOWN - Message: Apr 21 03:29:34 Nirupom dbus-daemon[620]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 11:38:11 - User: UNKNOWN - Message: Apr 21 11:38:11 Nirupom dbus-daemon[620]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 12:53:49 - User: 'vboxadd', - Message: Apr 21 12:53:49 Nirupom useradd[1040]: failed adding user 'vboxadd', data deleted
+Apr 21 12:53:49 - User: 'vboxadd', - Message: Apr 21 12:53:49 Nirupom useradd[1041]: failed adding user 'vboxadd', data deleted
+Apr 21 12:54:38 - User: UNKNOWN - Message: Apr 21 12:54:38 Nirupom dbus-daemon[616]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 13:27:33 - User: UNKNOWN - Message: Apr 21 13:27:33 Nirupom dbus-daemon[616]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 14:44:19 - User: 'vboxadd', - Message: Apr 21 14:44:19 Nirupom useradd[1046]: failed adding user 'vboxadd', data deleted
+Apr 21 14:44:19 - User: 'vboxadd', - Message: Apr 21 14:44:19 Nirupom useradd[1047]: failed adding user 'vboxadd', data deleted
+Apr 21 14:45:15 - User: UNKNOWN - Message: Apr 21 14:45:15 Nirupom dbus-daemon[616]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 15:17:43 - User: UNKNOWN - Message: Apr 21 15:17:43 Nirupom dbus-daemon[616]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 15:32:17 - User: 'vboxadd', - Message: Apr 21 15:32:17 Nirupom useradd[1042]: failed adding user 'vboxadd', data deleted
+Apr 21 15:32:17 - User: 'vboxadd', - Message: Apr 21 15:32:17 Nirupom useradd[1043]: failed adding user 'vboxadd', data deleted
+Apr 21 15:33:19 - User: UNKNOWN - Message: Apr 21 15:33:19 Nirupom dbus-daemon[610]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 15:33:52 - User: UNKNOWN - Message: Apr 21 15:33:52 Nirupom dbus-daemon[610]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 16:58:22 - User: 'vboxadd', - Message: Apr 21 16:58:22 Nirupom useradd[1053]: failed adding user 'vboxadd', data deleted
+Apr 21 16:58:22 - User: 'vboxadd', - Message: Apr 21 16:58:22 Nirupom useradd[1054]: failed adding user 'vboxadd', data deleted
+Apr 21 16:59:12 - User: UNKNOWN - Message: Apr 21 16:59:12 Nirupom dbus-daemon[615]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 21 17:00:08 - User: UNKNOWN - Message: Apr 21 17:00:08 Nirupom dbus-daemon[615]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 24 10:16:05 - User: 'vboxadd', - Message: Apr 24 10:16:05 Nirupom useradd[1047]: failed adding user 'vboxadd', data deleted
+Apr 24 10:16:05 - User: 'vboxadd', - Message: Apr 24 10:16:05 Nirupom useradd[1048]: failed adding user 'vboxadd', data deleted
+Apr 24 10:16:59 - User: UNKNOWN - Message: Apr 24 10:16:59 Nirupom dbus-daemon[615]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 24 10:18:04 - User: UNKNOWN - Message: Apr 24 10:18:04 Nirupom dbus-daemon[615]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 10:14:04 - User: 'vboxadd', - Message: Apr 25 10:14:04 Nirupom useradd[1013]: failed adding user 'vboxadd', data deleted
+Apr 25 10:14:04 - User: 'vboxadd', - Message: Apr 25 10:14:04 Nirupom useradd[1014]: failed adding user 'vboxadd', data deleted
+Apr 25 10:14:57 - User: UNKNOWN - Message: Apr 25 10:14:57 Nirupom dbus-daemon[603]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 10:15:26 - User: UNKNOWN - Message: Apr 25 10:15:26 Nirupom dbus-daemon[603]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 14:17:10 - User: 'vboxadd', - Message: Apr 25 14:17:10 Nirupom useradd[1003]: failed adding user 'vboxadd', data deleted
+Apr 25 14:17:10 - User: 'vboxadd', - Message: Apr 25 14:17:10 Nirupom useradd[1004]: failed adding user 'vboxadd', data deleted
+Apr 25 14:18:07 - User: UNKNOWN - Message: Apr 25 14:18:07 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 14:18:58 - User: UNKNOWN - Message: Apr 25 14:18:58 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 18:11:50 - User: 'vboxadd', - Message: Apr 25 18:11:50 Nirupom useradd[1014]: failed adding user 'vboxadd', data deleted
+Apr 25 18:11:50 - User: 'vboxadd', - Message: Apr 25 18:11:50 Nirupom useradd[1015]: failed adding user 'vboxadd', data deleted
+Apr 25 18:12:35 - User: UNKNOWN - Message: Apr 25 18:12:35 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 18:18:21 - User: UNKNOWN - Message: Apr 25 18:18:21 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 18:34:16 - User: UNKNOWN - Message: Apr 25 18:34:16 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 18:36:11 - User: UNKNOWN - Message: Apr 25 18:36:11 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 18:38:47 - User: UNKNOWN - Message: Apr 25 18:38:47 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 18:39:32 - User: UNKNOWN - Message: Apr 25 18:39:32 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 19:07:23 - User: UNKNOWN - Message: Apr 25 19:07:23 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 19:08:27 - User: UNKNOWN - Message: Apr 25 19:08:27 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 20:06:06 - User: UNKNOWN - Message: Apr 25 20:06:06 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 20:07:05 - User: UNKNOWN - Message: Apr 25 20:07:05 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 20:09:21 - User: UNKNOWN - Message: Apr 25 20:09:21 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 25 20:11:03 - User: UNKNOWN - Message: Apr 25 20:11:03 Nirupom dbus-daemon[602]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)

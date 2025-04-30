@@ -1,0 +1,6 @@
+nano LinuxHistory.txt
+
+Ctrl + O     # To write/save the file
+Enter        # To confirm the filename
+Ctrl + X     # To exit nano
+

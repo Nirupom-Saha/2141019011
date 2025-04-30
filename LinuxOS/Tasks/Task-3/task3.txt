@@ -1,0 +1,5 @@
+$ cd ~/Practice
+$ touch sample.txt
+$ cp sample.txt duplicate.txt
+$ rm duplicate.txt
+

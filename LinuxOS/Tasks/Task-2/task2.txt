@@ -1,0 +1,5 @@
+$ ls ~
+$ pwd
+$ mkdir ~/Practice 
+$ cd ~/Practice
+
