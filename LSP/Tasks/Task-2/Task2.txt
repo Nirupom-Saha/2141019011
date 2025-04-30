@@ -1,0 +1,11 @@
+$ mkdir -p 
+$ cd /tmp/myfiles
+$ echo "This is file file1 content" > file1.txt
+$ echo "This is file file2 content" > file2.txt
+$ echo "This is file file3 content" > file3.txt
+$ ls -l
+$ chmod g=r file2.txt
+$ ls -l file2.txt
+
+
+
